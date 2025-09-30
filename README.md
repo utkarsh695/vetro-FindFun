@@ -25,21 +25,6 @@ FindFun allows users to search for movies, view their ratings, and add favorites
 
 🎬 TMDB API – Movie database & ratings.
 
-📂 Project Structure
-FindFun/
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Page-level components (Home, Wishlist, etc.)
-|   ├── context/       # State/ contect provider
-|   ├── types/         #Types of content
-|   ├── services/      #API calls, Fetch logic
-│   ├── App.jsx        # Root component
-│   ├── main.jsx       # Entry point
-│   └── styles.css     # Tailwind styles
-├── public/            # Static assets
-├── package.json
-├── vite.config.js
-└── README.md
 
 🚀 Getting Started
 1️⃣ Clone the repo
